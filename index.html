@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="ru" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Каталог плейлистов с Comprehensible Input для изучения английского.">
+  <meta name="theme-color" content="#f8f7fb">
+  <title>English CI Playlists</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <svg class="icon-sprite" aria-hidden="true">
+    <symbol id="icon-list" viewBox="0 0 24 24"><path d="M8 6h12M8 12h12M8 18h12"/><circle cx="4" cy="6" r="1"/><circle cx="4" cy="12" r="1"/><circle cx="4" cy="18" r="1"/></symbol>
+    <symbol id="icon-heart" viewBox="0 0 24 24"><path d="M20.8 4.8a5.3 5.3 0 0 0-7.5 0L12 6.1l-1.3-1.3a5.3 5.3 0 0 0-7.5 7.5L12 21l8.8-8.7a5.3 5.3 0 0 0 0-7.5Z"/></symbol>
+    <symbol id="icon-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m8 12 2.6 2.6L16.5 9"/></symbol>
+    <symbol id="icon-eye-off" viewBox="0 0 24 24"><path d="M3 3l18 18M10.7 10.8a2 2 0 0 0 2.5 2.5M9.7 4.3A10.8 10.8 0 0 1 12 4c5.5 0 9 8 9 8a15.5 15.5 0 0 1-2.2 3.3M6.6 6.6C4.2 8.4 3 12 3 12s3.5 8 9 8a9.7 9.7 0 0 0 4-.9"/></symbol>
+    <symbol id="icon-eye" viewBox="0 0 24 24"><path d="M3 12s3.5-8 9-8 9 8 9 8-3.5 8-9 8-9-8-9-8Z"/><circle cx="12" cy="12" r="3"/></symbol>
+    <symbol id="icon-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></symbol>
+    <symbol id="icon-x" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="icon-chevron" viewBox="0 0 24 24"><path d="m8 10 4 4 4-4"/></symbol>
+    <symbol id="icon-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+    <symbol id="icon-video" viewBox="0 0 24 24"><rect x="3" y="6" width="13" height="12" rx="2"/><path d="m16 10 5-3v10l-5-3"/></symbol>
+    <symbol id="icon-moon" viewBox="0 0 24 24"><path d="M20.4 14.5A8.5 8.5 0 0 1 9.5 3.6a8.5 8.5 0 1 0 10.9 10.9Z"/></symbol>
+    <symbol id="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+    <symbol id="icon-reset" viewBox="0 0 24 24"><path d="M4 4v6h6M5.5 15a7 7 0 1 0 .5-7.5L4 10"/></symbol>
+  </svg>
+
+  <main class="page">
+    <header class="top-controls">
+      <nav class="view-tabs" aria-label="Разделы каталога">
+        <button class="view-tab is-active" type="button" data-view="all">
+          <svg><use href="#icon-list"></use></svg><span>Все</span><b id="countAll">0</b>
+        </button>
+        <button class="view-tab" type="button" data-view="favorites">
+          <svg><use href="#icon-heart"></use></svg><span>Избранное</span><b id="countFavorites">0</b>
+        </button>
+        <button class="view-tab" type="button" data-view="watched">
+          <svg><use href="#icon-check"></use></svg><span>Просмотренные</span><b id="countWatched">0</b>
+        </button>
+        <button class="view-tab" type="button" data-view="hidden">
+          <svg><use href="#icon-eye-off"></use></svg><span>Скрытые</span><b id="countHidden">0</b>
+        </button>
+      </nav>
+
+      <button class="round-button theme-button" id="themeButton" type="button" aria-label="Сменить тему" title="Сменить тему">
+        <svg class="icon-for-light"><use href="#icon-moon"></use></svg>
+        <svg class="icon-for-dark"><use href="#icon-sun"></use></svg>
+      </button>
+    </header>
+
+    <section class="filter-bar" aria-label="Поиск, фильтры и сортировка">
+      <label class="search-control">
+        <svg><use href="#icon-search"></use></svg>
+        <input id="searchInput" type="search" placeholder="Поиск плейлиста" autocomplete="off" aria-label="Поиск плейлиста">
+        <button id="clearSearchButton" type="button" aria-label="Очистить поиск">
+          <svg><use href="#icon-x"></use></svg>
+        </button>
+      </label>
+
+      <label class="select-control">
+        <select id="levelFilter" aria-label="Фильтр по уровню"><option value="all">Все уровни</option></select>
+        <svg><use href="#icon-chevron"></use></svg>
+      </label>
+
+      <label class="select-control">
+        <select id="accentFilter" aria-label="Фильтр по акценту"><option value="all">Все акценты</option></select>
+        <svg><use href="#icon-chevron"></use></svg>
+      </label>
+
+      <label class="select-control sort-control">
+        <select id="sortSelect" aria-label="Сортировка">
+          <option value="duration-desc">Сначала длинные</option>
+          <option value="duration-asc">Сначала короткие</option>
+          <option value="title-asc">По алфавиту А–Я</option>
+          <option value="title-desc">По алфавиту Я–А</option>
+          <option value="videos-desc">Больше видео</option>
+          <option value="videos-asc">Меньше видео</option>
+          <option value="level-asc">По уровню</option>
+        </select>
+        <svg><use href="#icon-chevron"></use></svg>
+      </label>
+
+      <button class="round-button reset-button" id="resetFiltersButton" type="button" aria-label="Сбросить фильтры" title="Сбросить фильтры">
+        <svg><use href="#icon-reset"></use></svg>
+      </button>
+    </section>
+
+    <section class="catalog" aria-label="Каталог плейлистов">
+      <div class="catalog-info"><strong id="resultCount">0</strong> <span id="resultWord">плейлистов</span></div>
+
+      <div class="table-scroll" tabindex="0" aria-label="Прокручиваемая таблица плейлистов">
+        <div class="playlist-table" role="table" aria-label="Плейлисты">
+          <div class="table-head" role="row">
+            <span role="columnheader">Плейлист</span>
+            <span role="columnheader">Уровень</span>
+            <span role="columnheader">Акцент</span>
+            <span role="columnheader">Длительность</span>
+            <span role="columnheader">Видео</span>
+            <span role="columnheader">Действия</span>
+          </div>
+          <div class="table-body" id="playlistRows"></div>
+        </div>
+      </div>
+
+      <div class="empty-state" id="emptyState" hidden>
+        <svg><use href="#icon-search"></use></svg>
+        <p>Ничего не найдено</p>
+        <button id="emptyResetButton" type="button">Сбросить фильтры</button>
+      </div>
+    </section>
+  </main>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
