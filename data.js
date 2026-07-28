@@ -1,22 +1,3 @@
-// ============================================================
-// PLAYLIST DATABASE
-// Edit only this file when you want to add or update playlists.
-//
-// Field guide:
-// id             — unique stable ID (do not duplicate)
-// title          — playlist/channel name
-// url            — YouTube URL
-// level          — A1, A2, B1-B2, B1-B2, B1-B2, B1-B2+ ...
-// durationHours  — total duration in hours (number)
-// videoCount     — number of videos or null when unknown
-// accent         — e.g. "American", "British", "Australian", or null
-// avatar         — direct image URL; leave "" for the initials placeholder
-// notes          — optional short note
-//
-// To add an item, copy an object, give it a new unique id, and
-// paste it before the closing ];
-// ============================================================
-
 window.PLAYLISTS = [
   {
     "id": "pl-1cdba83376",
