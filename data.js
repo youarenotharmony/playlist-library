@@ -27,7 +27,7 @@ window.PLAYLISTS = [
     "videoCount": 159,
     "accent": "Canadian",
     "avatar": "",
-    "notes": ""
+    "notes": "Note"
   },
   {
     "id": "pl-bf65d95714",
