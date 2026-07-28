@@ -365,6 +365,118 @@ html[data-theme="dark"] .avatar { color: #30293a; }
 .level-b2plus { background: var(--pink-soft); color: var(--pink-text); }
 .level-c1,
 .level-c2 { background: var(--primary-soft); color: var(--primary-text); }
+
+/* Плашки акцентов */
+
+.accent-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 34px;
+  padding: 4px 13px;
+  border-radius: 999px;
+
+  background: var(--surface-soft);
+  color: var(--muted);
+
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+/* American — голубой */
+
+.accent-american {
+  background: #e1edfb;
+  color: #41688e;
+}
+
+/* British — фиолетовый */
+
+.accent-british {
+  background: #ece4f8;
+  color: #685184;
+}
+
+/* Australian — тёплый оранжевый */
+
+.accent-australian {
+  background: #fae9d2;
+  color: #815f32;
+}
+
+/* Canadian — розовый */
+
+.accent-canadian {
+  background: #f8e1e7;
+  color: #895264;
+}
+
+/* Irish — зелёный */
+
+.accent-irish {
+  background: #dff1e5;
+  color: #3e7255;
+}
+
+/* New Zealand — бирюзовый */
+
+.accent-new-zealand {
+  background: #dcefeb;
+  color: #397069;
+}
+
+/* Несколько разных акцентов */
+
+.accent-mixed-international {
+  background: #e9e7ed;
+  color: #615c69;
+}
+
+/* Акцент пока не заполнен */
+
+.accent-unknown {
+  background: transparent;
+  color: var(--muted);
+  border: 1px dashed var(--border);
+}
+
+html[data-theme="dark"] .accent-american {
+  background: #2d4259;
+  color: #c6ddf6;
+}
+
+html[data-theme="dark"] .accent-british {
+  background: #47395b;
+  color: #ddcaf5;
+}
+
+html[data-theme="dark"] .accent-australian {
+  background: #51412e;
+  color: #f2d1a3;
+}
+
+html[data-theme="dark"] .accent-canadian {
+  background: #533741;
+  color: #f1c4d0;
+}
+
+html[data-theme="dark"] .accent-irish {
+  background: #29483a;
+  color: #bce2cb;
+}
+
+html[data-theme="dark"] .accent-new-zealand {
+  background: #294946;
+  color: #b8dfda;
+}
+
+html[data-theme="dark"] .accent-mixed-international {
+  background: #39363e;
+  color: #cbc4cf;
+}
+
 .value-with-icon {
   display: inline-flex;
   align-items: center;
@@ -512,6 +624,14 @@ html[data-theme="dark"] .avatar { color: #30293a; }
   .icon-button { width: 36px; height: 36px; border-radius: 11px; }
   .icon-button svg { width: 20px; height: 20px; }
   .toast { bottom: 16px; font-size: 13px; }
+
+  .accent-badge {
+  min-height: 27px;
+  padding: 3px 7px;
+  font-size: 11px;
+  white-space: normal;
+  text-align: center;
+}
 }
 
 @media (prefers-reduced-motion: reduce) {
