@@ -26,7 +26,7 @@ window.PLAYLISTS = [
     "durationHours": 62,
     "videoCount": 159,
     "accent": "Canadian",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_mNQ0S7cIrtoDN1xFuh2BsSsQ-GMArwxiM8F3NHcVLINtY=s48-c-k-c0x00ffffff-no-rj",
+    "avatar": "",
     "notes": ""
   },
   {
