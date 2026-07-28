@@ -8,7 +8,9 @@ window.PLAYLISTS = [
     "videoCount": 159,
     "accent": "Canadian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-bf65d95714",
@@ -19,7 +21,9 @@ window.PLAYLISTS = [
     "videoCount": 90,
     "accent": "Australian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-4266a4ef4f",
@@ -30,18 +34,22 @@ window.PLAYLISTS = [
     "videoCount": 34,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-13b74c13ec",
     "title": "English with Beth",
     "url": "https://youtube.com/playlist?list=PLoQjhQuO0mXktEK_Cbemz2x19chABBTaO&si=ay6stP8ussTIT8tO",
     "level": "A1",
-    "durationHours": 13,
+    "durationHours": 15,
     "videoCount": 40,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-eb3e9B1-B2575",
@@ -52,29 +60,35 @@ window.PLAYLISTS = [
     "videoCount": 52,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-7576b69083",
     "title": "Fingtam English",
-    "url": "https://youtube.com/playlist?list=PL5QKY42gcQznpXyB1-B23HSy_JTvKNvGjKa7&si=PwxUKl51VHUThJQO",
+    "url": "https://youtube.com/playlist?list=PL5QKY42gcQznpXyB23HSy_JTvKNvGjKa7&si=PwxUKl51VHUThJQO",
     "level": "A1",
     "durationHours": 10,
     "videoCount": 69,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-862fa26204",
     "title": "Miss Honey",
     "url": "https://youtube.com/playlist?list=PL8f0I_2tet-fDkhrcr6oXRK75kY6sxJWH&si=wpmGfL_wnVy9ATld",
     "level": "A1",
-    "durationHours": 10,
+    "durationHours": 12,
     "videoCount": 43,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-399a072bc0",
@@ -85,7 +99,9 @@ window.PLAYLISTS = [
     "videoCount": 31,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-7751cacd4e",
@@ -96,7 +112,9 @@ window.PLAYLISTS = [
     "videoCount": 40,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-3d3dd33f22",
@@ -107,7 +125,9 @@ window.PLAYLISTS = [
     "videoCount": 10,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-1ae213637b",
@@ -118,7 +138,9 @@ window.PLAYLISTS = [
     "videoCount": 24,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-a270e34be4",
@@ -129,7 +151,9 @@ window.PLAYLISTS = [
     "videoCount": 26,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-54c35c6821",
@@ -140,18 +164,22 @@ window.PLAYLISTS = [
     "videoCount": 15,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-0aa0d7625d",
     "title": "English Stories for Ana",
     "url": "https://youtube.com/playlist?list=PLCpH9_Zu6kFrZTod1WfLkiSAh2KmKhTPE&si=m_yS6VuJNbWMH_3H",
     "level": "A1",
-    "durationHours": 1,
+    "durationHours": 3,
     "videoCount": 30,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-b6adf46408",
@@ -162,7 +190,9 @@ window.PLAYLISTS = [
     "videoCount": 4,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-22cc08a35d",
@@ -173,18 +203,22 @@ window.PLAYLISTS = [
     "videoCount": 6,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-5972b0fb3b",
     "title": "Miss Jean Teacher",
-    "url": "https://youtube.com/playlist?list=PLrr_7ZHoCB1-B20vwtFQu3xA4fASgQiSQ0Aj&si=hnLBpfHO8MnbqEDb",
+    "url": "https://youtube.com/playlist?list=PLrr_7ZHoCB20vwtFQu3xA4fASgQiSQ0Aj&si=hnLBpfHO8MnbqEDb",
     "level": "A1",
     "durationHours": 1,
     "videoCount": 9,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-22f9568af1",
@@ -195,7 +229,9 @@ window.PLAYLISTS = [
     "videoCount": 3,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-06e6e0174d",
@@ -206,7 +242,9 @@ window.PLAYLISTS = [
     "videoCount": 50,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-806561b393",
@@ -217,7 +255,9 @@ window.PLAYLISTS = [
     "videoCount": 65,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-a8bf78c6ea",
@@ -228,7 +268,9 @@ window.PLAYLISTS = [
     "videoCount": 80,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-e433dB1-B248c",
@@ -239,7 +281,9 @@ window.PLAYLISTS = [
     "videoCount": 58,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-8041f3c8dd",
@@ -250,29 +294,35 @@ window.PLAYLISTS = [
     "videoCount": 38,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-7f0d73b90f",
     "title": "English Cozy Chat",
     "url": "https://youtube.com/playlist?list=PLpm1IJUtg25dkjdc6VsbYGogO5Qh287On&si=Z0ZMxM6XebDIK2U1",
     "level": "A2",
-    "durationHours": 8,
+    "durationHours": 14,
     "videoCount": 58,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-e1e0f97a19",
     "title": "EnglishSponge",
     "url": "https://youtube.com/playlist?list=PLI7Ex3Iy2EwrVaktQ6xb_mUtrf2ZOpFRB&si=ObZOfTbwYH8SZxZ7",
     "level": "A2",
-    "durationHours": 7,
+    "durationHours": 8,
     "videoCount": 52,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-29a0c5021e",
@@ -283,18 +333,22 @@ window.PLAYLISTS = [
     "videoCount": 24,
     "accent": "Australian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-4326ee6d2d",
     "title": "English Stories for Ana",
     "url": "https://youtube.com/playlist?list=PLCpH9_Zu6kFrHi83dG9sKJ3FgQhdfHgcV&si=NeS2X75U4boep0n5",
     "level": "A2",
-    "durationHours": 5,
+    "durationHours": 13,
     "videoCount": 85,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-f797fff8a1",
@@ -305,18 +359,22 @@ window.PLAYLISTS = [
     "videoCount": 35,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-63a82dcf0a",
     "title": "English after hours",
     "url": "https://youtube.com/playlist?list=PLFwYbY3wHtZP9nHnu8fbqLPo-2Tte3taT&si=Pu4YzaDbhZiTgdpg",
     "level": "A2",
-    "durationHours": 4,
+    "durationHours": 5,
     "videoCount": 29,
     "accent": "Irish",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-8d6a960558",
@@ -327,7 +385,9 @@ window.PLAYLISTS = [
     "videoCount": 12,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-b6be91d6d9",
@@ -338,7 +398,9 @@ window.PLAYLISTS = [
     "videoCount": 21,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-fb4dd38fb0",
@@ -349,7 +411,9 @@ window.PLAYLISTS = [
     "videoCount": 18,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-3582e0cfbf",
@@ -360,7 +424,9 @@ window.PLAYLISTS = [
     "videoCount": 7,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-1bd170cf5a",
@@ -371,7 +437,9 @@ window.PLAYLISTS = [
     "videoCount": 6,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-dcc3271c7d",
@@ -382,7 +450,9 @@ window.PLAYLISTS = [
     "videoCount": 7,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-97e6531d5b",
@@ -393,7 +463,9 @@ window.PLAYLISTS = [
     "videoCount": 6,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-a498a3c0e4",
@@ -404,29 +476,35 @@ window.PLAYLISTS = [
     "videoCount": 55,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-a7629561c5",
-    "title": "American English Podcast",
+    "title": "American English",
     "url": "https://www.youtube.com/playlist?list=PLrnzBkCm2eoyNjt-u0qEYnuF3VWiwAFay",
     "level": "B1-B2",
     "durationHours": 50,
     "videoCount": 387,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": "podcast",
+    "addedAt": null
   },
   {
     "id": "pl-19a00ee204",
-    "title": "Easy English Podcast",
+    "title": "Easy English",
     "url": "https://youtube.com/playlist?list=PLu1As8p-8QYdNtEdxj5bgAW451FEgFvH4&si=nikkV6z_fZu2Y4hd",
     "level": "B1-B2",
     "durationHours": 46,
     "videoCount": 168,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": "podcast",
+    "addedAt": null
   },
   {
     "id": "pl-6f2dab376c",
@@ -437,51 +515,61 @@ window.PLAYLISTS = [
     "videoCount": 161,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-13eeb79756",
     "title": "Pensando Ingles",
     "url": "https://youtube.com/playlist?list=PL9R7Y14jiOgr-bmnn1ycmckam3nkkPm-Z&si=7S9xK5Jg1CK10KBW",
     "level": "B1-B2",
-    "durationHours": 30,
+    "durationHours": 36,
     "videoCount": 97,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-087b3c4bee",
     "title": "EnglishSponge (B1-B2)",
     "url": "https://youtube.com/playlist?list=PLI7Ex3Iy2EwqOGOF2aRoP-eMUNJ2U6u_x&si=8YZm363PUAgpfOga",
     "level": "B1-B2",
-    "durationHours": 29,
+    "durationHours": 32,
     "videoCount": 140,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-05f7e5af2b",
     "title": "Bo’s Slow English",
     "url": "https://youtube.com/playlist?list=PL1Vvf9gFRkYdo_IkFcuVyjk3WzdyVpbOK&si=G3SYNeHZqhPJvOCC",
     "level": "B1-B2",
-    "durationHours": 24,
+    "durationHours": 35,
     "videoCount": 127,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-0aeee3aB1-B2c",
-    "title": "English with Gemma Podcast",
+    "title": "English with Gemma",
     "url": "https://youtube.com/playlist?list=PLcPAwtW6mYOgUzt3VdiZ0dmBhe9uYx2mw&si=D_77cBsp7iFEK2c_",
     "level": "B1-B2",
-    "durationHours": 23,
+    "durationHours": 26,
     "videoCount": 82,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": "podcast",
+    "addedAt": null
   },
   {
     "id": "pl-a93c867B1-B24",
@@ -492,73 +580,87 @@ window.PLAYLISTS = [
     "videoCount": 153,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-91991cd022",
     "title": "English Coach 3Ts",
     "url": "https://youtube.com/playlist?list=PLAQnGJZE3wfzxBphiKX6NF2Z4yD_3xQeC&si=YX4izXWdU-CyVCsw",
     "level": "B1-B2",
-    "durationHours": 22,
+    "durationHours": 24,
     "videoCount": 95,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-1ba4f9962d",
     "title": "Ariannita la Gringa",
     "url": "https://youtube.com/playlist?list=PL50GkV3cQyq7MzhHP2R-9H84p-cUrYskQ&si=EL2mDxW94h8d7kfJ",
     "level": "B1-B2",
-    "durationHours": 20,
+    "durationHours": 24,
     "videoCount": 83,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-9a021920b5",
     "title": "Miss Jean Teacher",
-    "url": "https://youtube.com/playlist?list=PLrr_7ZHoCB1-B21m0qihN_mZEw4MRh-0Spcv&si=AJj9Aqwf5o7JdHdv",
+    "url": "https://www.youtube.com/playlist?list=PLrr_7ZHoCB21m0qihN_mZEw4MRh-0Spcv",
     "level": "B1-B2",
     "durationHours": 20,
     "videoCount": 91,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": "podcast",
+    "addedAt": null
   },
   {
     "id": "pl-7408dcc074",
     "title": "English with Teacher Levi",
     "url": "https://youtube.com/playlist?list=PL_GLmQYdj60fxFKKYUEVuUsi6FbJOPxxM&si=FWEtGn9vxMEe1nC_",
     "level": "B1-B2",
-    "durationHours": 18,
+    "durationHours": 21,
     "videoCount": 64,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-819bcd7861",
     "title": "English at Ease",
     "url": "https://youtube.com/@englishatease-s4r?si=6RDTYdY73TWCnBv1",
     "level": "B1-B2",
-    "durationHours": 18,
+    "durationHours": 22,
     "videoCount": 85,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-9cf5fe0c73",
-    "title": "Learn English with Camille (B1-B2)",
+    "title": "Learn English with Camille",
     "url": "https://www.youtube.com/playlist?list=PLJ5qkOTqBd8Hs1T6tRWpVVhuvF1MLz84S",
     "level": "B1-B2",
     "durationHours": 17,
     "videoCount": 76,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-a01205a644",
@@ -569,18 +671,22 @@ window.PLAYLISTS = [
     "videoCount": 35,
     "accent": "Canadian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-03ee87aca4",
-    "title": "English Stories for Ana (B1-B2)",
+    "title": "English Stories for Ana",
     "url": "https://youtube.com/playlist?list=PLCpH9_Zu6kFqNLbEw1moWLFb5zjOTA-i5&si=LumPtVQhw__C8bbD",
     "level": "B1-B2",
-    "durationHours": 15,
+    "durationHours": 12,
     "videoCount": 129,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-f42fdde94a",
@@ -591,7 +697,9 @@ window.PLAYLISTS = [
     "videoCount": 14,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-B1-B2353B1-B250f",
@@ -602,7 +710,9 @@ window.PLAYLISTS = [
     "videoCount": 61,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-44a2972f3e",
@@ -613,29 +723,35 @@ window.PLAYLISTS = [
     "videoCount": 32,
     "accent": "Canadian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-a7a00852c5",
-    "title": "EnglishSponge (B1-B2)",
+    "title": "EnglishSponge",
     "url": "https://youtube.com/playlist?list=PLI7Ex3Iy2Ewo_m072OKy17ykaLK9D_LXE&si=bEJkb64uUcEzFDqz",
     "level": "B1-B2",
     "durationHours": 11,
     "videoCount": 48,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-11adc9c1a3",
-    "title": "Stardew Valley B1-B2",
-    "url": "https://youtube.com/playlist?list=PLOu7BsKh86SPCjbwNih4EMgSkLGOTTuNG&si=fB1-B2l-ffeI1fFaeib",
+    "title": "Stardew Valley",
+    "url": "https://youtube.com/playlist?list=PLOu7BsKh86SPCjbwNih4EMgSkLGOTTuNG&si=fb2l-ffeI1fFaeib",
     "level": "B1-B2",
     "durationHours": 10,
     "videoCount": 10,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-589a6c2e32",
@@ -646,7 +762,9 @@ window.PLAYLISTS = [
     "videoCount": 10,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-064ebce4cd",
@@ -657,29 +775,35 @@ window.PLAYLISTS = [
     "videoCount": 40,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-073b067cb7",
-    "title": "Slow English With Brian Podcast",
+    "title": "Slow English With Brian",
     "url": "https://www.youtube.com/playlist?list=PL_m_LH-e5q4hAnEvS6d9mAlgsvNYCIfGy",
     "level": "B1-B2",
     "durationHours": 8,
     "videoCount": 42,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": "podcast",
+    "addedAt": null
   },
   {
     "id": "pl-80438255e4",
     "title": "English by Jay",
     "url": "https://youtube.com/playlist?list=PLN10fSyMzgEwh5GDzH2IkBJ0rUHfcqiTH&si=9EfRSDFwbZmSGkMg",
     "level": "B1-B2",
-    "durationHours": 8,
+    "durationHours": 10,
     "videoCount": 36,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-beb7b8f886",
@@ -690,7 +814,9 @@ window.PLAYLISTS = [
     "videoCount": 8,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-892687c399",
@@ -701,29 +827,35 @@ window.PLAYLISTS = [
     "videoCount": 30,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-f9fe5c6428",
     "title": "English Stories for Ana (B1-B2)",
     "url": "https://youtube.com/playlist?list=PLCpH9_Zu6kFrprL0dfOkpMFe3dWZ66bet&si=WO2Phz-ZR1U_v86Q",
     "level": "B1-B2",
-    "durationHours": 7,
+    "durationHours": 11,
     "videoCount": 59,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-873a340ea7",
     "title": "Learn English with Benji",
     "url": "https://youtube.com/playlist?list=PLGGF07yfo4CyGboseu6LaKAdhmWmxhf7t&si=QIRKRg9PLVIUI92G",
     "level": "B1-B2",
-    "durationHours": 7,
+    "durationHours": 9,
     "videoCount": 57,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-cd91c54095",
@@ -734,7 +866,9 @@ window.PLAYLISTS = [
     "videoCount": 25,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-7650bf4363",
@@ -745,7 +879,9 @@ window.PLAYLISTS = [
     "videoCount": 42,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-90b512debc",
@@ -756,7 +892,9 @@ window.PLAYLISTS = [
     "videoCount": 9,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-06b9ed507b",
@@ -767,29 +905,35 @@ window.PLAYLISTS = [
     "videoCount": 38,
     "accent": "Irish",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-cfd2aeceef",
     "title": "Instant English",
-    "url": "https://youtube.com/playlist?list=PLHbgDxFKMMS0SHFTejkbv6_I0UKqDE5Fm&si=hT6zvg15OB1-B23Rkgf",
+    "url": "https://youtube.com/playlist?list=PLHbgDxFKMMS0SHFTejkbv6_I0UKqDE5Fm&si=hT6zvg15OB13Rkgf",
     "level": "B1-B2",
     "durationHours": 6,
     "videoCount": 33,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-0262B1-B2b308",
     "title": "American Culture",
-    "url": "https://youtube.com/playlist?list=PLKxFPyhwH5ajBmB1-B2hTUT8CQpgvbLj8wV-&si=FV-4SjMsSFGsRzJa",
+    "url": "https://youtube.com/playlist?list=PLKxFPyhwH5ajBmB2hTUT8CQpgvbLj8wV-&si=FV-4SjMsSFGsRzJa",
     "level": "B1-B2",
     "durationHours": 6,
     "videoCount": 43,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-9b9b7bd721",
@@ -800,18 +944,22 @@ window.PLAYLISTS = [
     "videoCount": 22,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-18b91422ef",
     "title": "Everyday English SLOW ENGLISH",
-    "url": "https://www.youtube.com/playlist?list=PLrr_7ZHoCB1-B21i6ToJ7HwDSzxv4tIuBlUW",
+    "url": "https://www.youtube.com/playlist?list=PLrr_7ZHoCB21i6ToJ7HwDSzxv4tIuBlUW",
     "level": "B1-B2",
     "durationHours": 6,
     "videoCount": 30,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-af6bfaf590",
@@ -822,7 +970,9 @@ window.PLAYLISTS = [
     "videoCount": 31,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-c68a69fd6f",
@@ -833,18 +983,22 @@ window.PLAYLISTS = [
     "videoCount": 14,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-6269dba277",
     "title": "Miss Honey (B1-B2)",
-    "url": "https://youtube.com/playlist?list=PL8f0I_2tet-dz08Guo86B1-B2auEenEMY05D&si=mIWCy55_zn_BpcnK",
+    "url": "https://youtube.com/playlist?list=PL8f0I_2tet-dz08Guo86B2auEenEMY05D&si=mIWCy55_zn_BpcnK",
     "level": "B1-B2",
     "durationHours": 5,
     "videoCount": 27,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-db9420d600",
@@ -855,7 +1009,9 @@ window.PLAYLISTS = [
     "videoCount": 17,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-c3533d81a1",
@@ -866,7 +1022,9 @@ window.PLAYLISTS = [
     "videoCount": 18,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-2b64a2be15",
@@ -877,7 +1035,9 @@ window.PLAYLISTS = [
     "videoCount": 32,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-975ff6f6d7",
@@ -888,7 +1048,9 @@ window.PLAYLISTS = [
     "videoCount": 14,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-f21f8fc517",
@@ -899,7 +1061,9 @@ window.PLAYLISTS = [
     "videoCount": 17,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-f07ea35900",
@@ -910,7 +1074,9 @@ window.PLAYLISTS = [
     "videoCount": 16,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-94a1f3eee8",
@@ -921,18 +1087,22 @@ window.PLAYLISTS = [
     "videoCount": 41,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-6197fd2ee2",
     "title": "Fingtam English",
-    "url": "https://youtube.com/playlist?list=PL5QKY42gcQzmf6xV-FEAhB1-B2gF3Sx1eKUt&si=lO-ypxPu1KD1NsEg",
+    "url": "https://youtube.com/playlist?list=PL5QKY42gcQzmf6xV-FEAhb1gF3Sx1eKUt&si=lO-ypxPu1KD1NsEg",
     "level": "B1-B2",
     "durationHours": 4,
     "videoCount": 20,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-c138bdc440",
@@ -943,7 +1113,9 @@ window.PLAYLISTS = [
     "videoCount": 20,
     "accent": "Australian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-e19a14984f",
@@ -954,7 +1126,9 @@ window.PLAYLISTS = [
     "videoCount": 20,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-a0fB1-B24e36c",
@@ -965,18 +1139,22 @@ window.PLAYLISTS = [
     "videoCount": 19,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-098263637c",
     "title": "Everyday Australian English with Lauren",
-    "url": "https://youtube.com/playlist?list=PLEZFal6VaZpjfwbBVbH16rToicwdj6w57&si=6l-aQKAGYQuhXrzy",
+    "url": "https://www.youtube.com/playlist?list=PLEZFal6VaZpjfwbBVbH16rToicwdj6w57",
     "level": "B1-B2",
-    "durationHours": 4,
+    "durationHours": 7,
     "videoCount": 27,
     "accent": "Australian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-99239886e5",
@@ -987,7 +1165,9 @@ window.PLAYLISTS = [
     "videoCount": 17,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-1e1d30139b",
@@ -998,7 +1178,9 @@ window.PLAYLISTS = [
     "videoCount": 10,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-ebdc9c10ce",
@@ -1009,7 +1191,9 @@ window.PLAYLISTS = [
     "videoCount": 17,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-90b81e204a",
@@ -1020,7 +1204,9 @@ window.PLAYLISTS = [
     "videoCount": 19,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-ec97778c03",
@@ -1031,7 +1217,9 @@ window.PLAYLISTS = [
     "videoCount": 11,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-779c23ec0d",
@@ -1042,7 +1230,9 @@ window.PLAYLISTS = [
     "videoCount": 10,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-cafd16fcb4",
@@ -1053,7 +1243,9 @@ window.PLAYLISTS = [
     "videoCount": 16,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-58afca113d",
@@ -1064,7 +1256,9 @@ window.PLAYLISTS = [
     "videoCount": 12,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-2fedb99c45",
@@ -1075,7 +1269,9 @@ window.PLAYLISTS = [
     "videoCount": 13,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-23de7141f5",
@@ -1086,7 +1282,9 @@ window.PLAYLISTS = [
     "videoCount": 12,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-b9cd0e794a",
@@ -1097,7 +1295,9 @@ window.PLAYLISTS = [
     "videoCount": 29,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-cd7a5bc66f",
@@ -1108,7 +1308,9 @@ window.PLAYLISTS = [
     "videoCount": 18,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-778b4411cf",
@@ -1119,7 +1321,9 @@ window.PLAYLISTS = [
     "videoCount": 16,
     "accent": "Canadian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-4c7515193d",
@@ -1130,18 +1334,22 @@ window.PLAYLISTS = [
     "videoCount": 10,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-38c8f1b424",
     "title": "Input English Exploring Vlogs",
-    "url": "https://youtube.com/playlist?list=PL7fmP24ymbEsnKIv0mD5B1-B2uWaIzn810fu&si=9wF7Uu3H-7BDHBDx",
+    "url": "https://youtube.com/playlist?list=PL7fmP24ymbEsnKIv0mD5b1uWaIzn810fu&si=9wF7Uu3H-7BDHBDx",
     "level": "B1-B2",
     "durationHours": 3,
     "videoCount": 10,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-ac0d028d00",
@@ -1152,7 +1360,9 @@ window.PLAYLISTS = [
     "videoCount": 9,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-5b50c1106f",
@@ -1163,7 +1373,9 @@ window.PLAYLISTS = [
     "videoCount": 13,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-d5ab0c55B1-B2",
@@ -1174,7 +1386,9 @@ window.PLAYLISTS = [
     "videoCount": 20,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-0f0869cc72",
@@ -1185,7 +1399,9 @@ window.PLAYLISTS = [
     "videoCount": 15,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-d38265738c",
@@ -1196,7 +1412,9 @@ window.PLAYLISTS = [
     "videoCount": 12,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-4c40cba472",
@@ -1207,7 +1425,9 @@ window.PLAYLISTS = [
     "videoCount": 13,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-10b5b81403",
@@ -1218,7 +1438,9 @@ window.PLAYLISTS = [
     "videoCount": 11,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-c788ce6404",
@@ -1229,7 +1451,9 @@ window.PLAYLISTS = [
     "videoCount": 13,
     "accent": "Australian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-26d4ea043f",
@@ -1240,7 +1464,9 @@ window.PLAYLISTS = [
     "videoCount": 3,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-ff2467db36",
@@ -1251,40 +1477,48 @@ window.PLAYLISTS = [
     "videoCount": 12,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-3cc149f259",
     "title": "English Like Mike",
     "url": "https://www.youtube.com/@EnglishLikeMike",
     "level": "B1-B2",
-    "durationHours": 2,
+    "durationHours": 3,
     "videoCount": 13,
     "accent": "Australian",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-7461d35fb0",
     "title": "English with Evie",
     "url": "https://youtube.com/@englishwithevie?si=UvHjVfoZW2qW2f7z",
     "level": "B1-B2",
-    "durationHours": 2,
+    "durationHours": 4,
     "videoCount": 27,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-374931d1e2",
     "title": "Fin Teaches English",
     "url": "https://youtube.com/playlist?list=PLmMTxW0t-jbbh1qZFtzBNZPrWN1OQD0SY&si=SjAdSm8VDLZOxSkT",
     "level": "B1-B2",
-    "durationHours": 2,
+    "durationHours": 5,
     "videoCount": 24,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-bd1717918b",
@@ -1295,7 +1529,9 @@ window.PLAYLISTS = [
     "videoCount": 10,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-b58f1db4c0",
@@ -1306,7 +1542,9 @@ window.PLAYLISTS = [
     "videoCount": 6,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-bc5d035a8d",
@@ -1317,7 +1555,9 @@ window.PLAYLISTS = [
     "videoCount": 7,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-96be55b429",
@@ -1328,7 +1568,9 @@ window.PLAYLISTS = [
     "videoCount": 5,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-be1ebed307",
@@ -1339,7 +1581,9 @@ window.PLAYLISTS = [
     "videoCount": 3,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-ffbf949B1-B29",
@@ -1350,7 +1594,9 @@ window.PLAYLISTS = [
     "videoCount": 11,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-1f185d0bf2",
@@ -1361,7 +1607,9 @@ window.PLAYLISTS = [
     "videoCount": 11,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-89fd4cd2e1",
@@ -1372,7 +1620,9 @@ window.PLAYLISTS = [
     "videoCount": 9,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-8ea0f037f3",
@@ -1383,7 +1633,9 @@ window.PLAYLISTS = [
     "videoCount": 3,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-03a2dd71b7",
@@ -1394,7 +1646,9 @@ window.PLAYLISTS = [
     "videoCount": 4,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-467b7e29f8",
@@ -1405,18 +1659,22 @@ window.PLAYLISTS = [
     "videoCount": 5,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-c2857e79b8",
     "title": "Outstanding English",
     "url": "https://youtube.com/playlist?list=PLjfEpqkZSEyjm6Q2H5PrM6XrZRPmmm1fz&si=_mpgPhqQUEW6M76R",
     "level": "B1-B2",
-    "durationHours": 1,
+    "durationHours": 2,
     "videoCount": 13,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-71cdB1-B2e002",
@@ -1427,7 +1685,9 @@ window.PLAYLISTS = [
     "videoCount": 7,
     "accent": "American",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-bf8c3fc5fe",
@@ -1438,7 +1698,9 @@ window.PLAYLISTS = [
     "videoCount": 6,
     "accent": "British",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
   },
   {
     "id": "pl-85edb7c43f",
@@ -1449,6 +1711,502 @@ window.PLAYLISTS = [
     "videoCount": 39,
     "accent": "Irish",
     "avatar": "",
-    "notes": ""
+    "notes": "",
+    "format": null,
+    "addedAt": null
+  },
+   {
+    "id": "pl-a826eec48c",
+    "title": "Thinking English Gaming",
+    "url": "https://youtube.com/@thinking-english-gaming",
+    "level": "B1-B2",
+    "durationHours": 0,
+    "videoCount": 24,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-cbf58028b1",
+    "title": "English Easy Mode",
+    "url": "https://youtube.com/@englisheasymode",
+    "level": "B1-B2",
+    "durationHours": 0,
+    "videoCount": 13,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-f993f390c4",
+    "title": "Learn with Wavey",
+    "url": "https://youtube.com/@learnwithwavey",
+    "level": "A2",
+    "durationHours": 2,
+    "videoCount": 5,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-13ae1901d0",
+    "title": "Walk With Me English",
+    "url": "https://www.youtube.com/playlist?list=PLzkcVPMKc9thq6Cyf0EY9Z-MDRLTcMvyN",
+    "level": "B1-B2",
+    "durationHours": 3,
+    "videoCount": 10,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-3d6be787e9",
+    "title": "English with Jason",
+    "url": "https://youtube.com/@english_with_jason",
+    "level": "B1-B2",
+    "durationHours": 3,
+    "videoCount": 8,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-ab23f7360c",
+    "title": "EEEnglish Official",
+    "url": "https://youtube.com/@eeenglish.official",
+    "level": "A2",
+    "durationHours": 2,
+    "videoCount": 26,
+    "accent": "Canadian",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-c067cc197a",
+    "title": "Jeff Cole English",
+    "url": "https://youtube.com/@jeffcoleenglish",
+    "level": "B1-B2",
+    "durationHours": 1,
+    "videoCount": 4,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-60697f951e",
+    "title": "Natural English with Ed",
+    "url": "https://youtube.com/@naturalenglishwithed",
+    "level": "B1-B2",
+    "durationHours": 1,
+    "videoCount": 8,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-2960192b63",
+    "title": "Conversations with Kristin",
+    "url": "https://youtube.com/@conversationswithkristin",
+    "level": "B1-B2",
+    "durationHours": 1,
+    "videoCount": 10,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-ed2d26fbac",
+    "title": "Learn English With Famous Stories - Easy English Listening Playlist",
+    "url": "https://www.youtube.com/playlist?list=PL37fr9hk1cIEh9LXPg-xyzPt7sHVrR-Iv",
+    "level": "B1-B2",
+    "durationHours": 6,
+    "videoCount": 30,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-b8842236c5",
+    "title": "Its English Time with Victoria",
+    "url": "https://youtube.com/@itsenglishtimewithvictoria",
+    "level": "B1-B2",
+    "durationHours": 0,
+    "videoCount": 5,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-cee8d09f7a",
+    "title": "Super Mario Odyssey",
+    "url": "https://www.youtube.com/playlist?list=PLEeZEYCefqtgkklLILZR4zA2nH30B_Yt0",
+    "level": "B1-B2",
+    "durationHours": 9,
+    "videoCount": 7,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-8e74210939",
+    "title": "Learn English with Terraria",
+    "url": "https://www.youtube.com/playlist?list=PLEeZEYCefqthiuHQuuB7WYro9ejvsEm-A",
+    "level": "A2",
+    "durationHours": 1,
+    "videoCount": 3,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-d226c6cf27",
+    "title": "Learn English with Minecraft!",
+    "url": "https://www.youtube.com/playlist?list=PLi2edHIB6iaoD1W_Ae19wW0fWD3Te7-Fk",
+    "level": "B1-B2",
+    "durationHours": 6,
+    "videoCount": 14,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-1ff9dec7ab",
+    "title": "Learn English with Overcooked 2!",
+    "url": "https://www.youtube.com/playlist?list=PLi2edHIB6iapZyJQ9Xy6Dc-TO9M6g_B2H",
+    "level": "B1-B2",
+    "durationHours": 4,
+    "videoCount": 12,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-ea0e64c10f",
+    "title": "Learn English with Astro Bot!",
+    "url": "https://www.youtube.com/playlist?list=PLi2edHIB6iaoxZ_FEC4i3fhaP3-4EDWCE",
+    "level": "B1-B2",
+    "durationHours": 14,
+    "videoCount": 37,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-5fe05cf445",
+    "title": "Learn English with The Plucky Squire!",
+    "url": "https://www.youtube.com/playlist?list=PLi2edHIB6iaq9wZ1Pd0PnGYw-IAQITKL_",
+    "level": "B1-B2",
+    "durationHours": 8,
+    "videoCount": 19,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-d356e82190",
+    "title": "Beginner English with Comfy Corners!",
+    "url": "https://www.youtube.com/playlist?list=PLi2edHIB6iaoGDBfBdTfNhD5iJIQpZ2TL",
+    "level": "B1-B2",
+    "durationHours": 1,
+    "videoCount": 4,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-cd3b1b68d6",
+    "title": "Learn English with Goat Simulator 3!",
+    "url": "https://www.youtube.com/playlist?list=PLi2edHIB6iaoxw1jOpeME34UObUhfsCv7",
+    "level": "B1-B2",
+    "durationHours": 5,
+    "videoCount": 13,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-d5a30a42e2",
+    "title": "Let's Play and Learn English with Stardew Valley",
+    "url": "https://www.youtube.com/playlist?list=PLrTDQeZKq5TtHQ-MWZdecCheSnp44U6nT",
+    "level": "A2",
+    "durationHours": 2,
+    "videoCount": 8,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-bc19b6c7cf",
+    "title": "Easy English Short Stories",
+    "url": "https://www.youtube.com/playlist?list=PLBHhtT27aGKWT0saFuFn6T4H8V4UV2JaM",
+    "level": "A1",
+    "durationHours": 2,
+    "videoCount": 27,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-481b88dc36",
+    "title": "Easy Stories in English",
+    "url": "https://www.youtube.com/@easystoriesinenglish/videos",
+    "level": "B1-B2",
+    "durationHours": 0,
+    "videoCount": 269,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-ecfb061a5f",
+    "title": "Look and Learn English",
+    "url": "https://www.youtube.com/@LookandLearnEnglish/videos",
+    "level": "A2",
+    "durationHours": 0,
+    "videoCount": 46,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-245f139f21",
+    "title": "Slow Easy English",
+    "url": "https://www.youtube.com/playlist?list=PLUiFeF9KuaPabTQ1HEZ3pvD-JkiiqZRu9",
+    "level": "A2",
+    "durationHours": 1,
+    "videoCount": 7,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-b5bd979643",
+    "title": "Easy British English Vlogs",
+    "url": "https://www.youtube.com/playlist?list=PLUiFeF9KuaPZv3z0t67PIPO-mOrggJa3Q",
+    "level": "A2",
+    "durationHours": 2,
+    "videoCount": 6,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-68ee92fb62",
+    "title": "Learn English with Real Everyday Conversations",
+    "url": "https://www.youtube.com/playlist?list=PLUiFeF9KuaPZiJqP0dcYoCvZ3dgUYcts2",
+    "level": "B1-B2",
+    "durationHours": 2,
+    "videoCount": 14,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-aab7ee90db",
+    "title": "The Easy English",
+    "url": "https://www.youtube.com/playlist?list=PLUiFeF9KuaPYmR2weCDV2zCrrSEnP7p71",
+    "level": "B1-B2",
+    "durationHours": 5,
+    "videoCount": 16,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-65639a8961",
+    "title": "Daily Dose of English with Ben",
+    "url": "https://www.youtube.com/playlist?list=PL7yrVR1epvJomekOmbKGT_RJcUAjchxjm",
+    "level": "B1-B2",
+    "durationHours": 43,
+    "videoCount": 229,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-b8879b4e2b",
+    "title": "A1 English Listening Practice",
+    "url": "https://www.youtube.com/playlist?list=PLhNRdHEdUQewzYZ0X6gt3x9_CVen_HldI",
+    "level": "A1",
+    "durationHours": 11,
+    "videoCount": 62,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-f6021da812",
+    "title": "A2 English Listening Practice",
+    "url": "https://www.youtube.com/playlist?list=PLhNRdHEdUQexUblCTMd1ATwOd5J4SxtNM",
+    "level": "A2",
+    "durationHours": 10,
+    "videoCount": 59,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-c64c922372",
+    "title": "B1 English Listening Practice",
+    "url": "https://www.youtube.com/playlist?list=PLhNRdHEdUQeyIjNRrwWnMU_iph8amkaJg",
+    "level": "B1-B2",
+    "durationHours": 9,
+    "videoCount": 47,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-6d8a024060",
+    "title": "VOA Learning English",
+    "url": "https://www.youtube.com/playlist?list=PLd9hCvj34W5hZxGsu5etKF6bZ9w4Ap2hl",
+    "level": "B1-B2",
+    "durationHours": 170,
+    "videoCount": 346,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-294934be61",
+    "title": "Jack Redfold Learn English Vocabulary",
+    "url": "https://www.youtube.com/playlist?list=PLfMCWbgeioA0voaIYe0HHAP5zM14e143F",
+    "level": "B1-B2",
+    "durationHours": 7,
+    "videoCount": 29,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-b897f2a3b4",
+    "title": "Who is Rachel of Rachel's English?",
+    "url": "https://www.youtube.com/playlist?list=PLrqHrGoMJdTT5qCzkqlUtiopui2irMGOn",
+    "level": "B1-B2",
+    "durationHours": 13,
+    "videoCount": 25,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-27a6e4417f",
+    "title": "English Listening Comprehension for Advanced Learners",
+    "url": "https://www.youtube.com/playlist?list=PL5bLw9Uguvv0Q6yEZUcNMs0uQDYpffIx4",
+    "level": "B1-B2",
+    "durationHours": 1,
+    "videoCount": 30,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-1c294426ac",
+    "title": "English Listening Comprehension for Intermediate Learners",
+    "url": "https://www.youtube.com/playlist?list=PL5bLw9Uguvv1VRVl3gHBt-FcM__k3UY9L",
+    "level": "B1-B2",
+    "durationHours": 1,
+    "videoCount": 30,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-d1a6fd9a67",
+    "title": "English Listening Comprehension for Beginners",
+    "url": "https://www.youtube.com/playlist?list=PL5bLw9Uguvv3Mjnzd0YGmu-lGRWRWv-cU",
+    "level": "A2",
+    "durationHours": 1,
+    "videoCount": 28,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
+  },
+  {
+    "id": "pl-bb6d5e20cb",
+    "title": "English Listening Comprehension for Absolute Beginners",
+    "url": "https://www.youtube.com/playlist?list=PL5bLw9Uguvv11fx6bS68yK5OeXAqLU3mW",
+    "level": "A1",
+    "durationHours": 1,
+    "videoCount": 29,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": "podcast",
+    "addedAt": "2026-07-28"
   }
 ];
