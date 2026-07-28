@@ -87,6 +87,26 @@ html[data-theme="dark"] .icon-for-dark { display: block; }
   margin-bottom: 14px;
 }
 
+
+.header-actions {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.language-button-text {
+  display: grid;
+  place-items: center;
+  color: inherit;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: .02em;
+  user-select: none;
+}
+
 .view-tabs {
   min-width: 0;
   display: flex;
@@ -127,6 +147,52 @@ html[data-theme="dark"] .icon-for-dark { display: block; }
   font-size: 13px;
   line-height: 1.55;
   text-align: center;
+}
+
+.special-filter-tab {
+  border-color: transparent;
+}
+
+.new-filter-tab {
+  background: var(--green-soft);
+  color: var(--green-text);
+}
+
+.new-filter-tab:hover {
+  background: color-mix(in srgb, var(--green-soft) 82%, var(--surface-hover));
+  color: var(--green-text);
+}
+
+.new-filter-tab.is-active {
+  background: var(--green-soft);
+  color: var(--green-text);
+  border-color: color-mix(in srgb, var(--green-text) 34%, transparent);
+  box-shadow:
+    inset 0 0 0 1px color-mix(in srgb, var(--green-text) 22%, transparent),
+    0 0 0 3px color-mix(in srgb, var(--green-text) 10%, transparent);
+}
+
+.podcast-filter-tab {
+  background: var(--primary-soft);
+  color: var(--primary-text);
+}
+
+.podcast-filter-tab:hover {
+  background: color-mix(in srgb, var(--primary-soft) 84%, var(--surface-hover));
+  color: var(--primary-text);
+}
+
+.podcast-filter-tab.is-active {
+  background: var(--primary-soft);
+  color: var(--primary-text);
+  border-color: color-mix(in srgb, var(--primary-text) 30%, transparent);
+  box-shadow:
+    inset 0 0 0 1px color-mix(in srgb, var(--primary-text) 20%, transparent),
+    0 0 0 3px color-mix(in srgb, var(--primary) 10%, transparent);
+}
+
+.special-filter-tab[aria-pressed="true"] {
+  font-weight: 800;
 }
 
 .round-button {
@@ -247,13 +313,29 @@ html[data-theme="dark"] .icon-for-dark { display: block; }
   min-height: 56px;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 7px;
   padding: 0 24px;
   border-bottom: 1px solid var(--border);
   color: var(--muted);
   font-size: 15px;
   font-weight: 600;
 }
-.catalog-info strong { margin-right: 5px; color: var(--text); font-size: 18px; }
+.catalog-stat {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 5px;
+  white-space: nowrap;
+}
+.catalog-info strong {
+  margin: 0;
+  color: var(--text);
+  font-size: 18px;
+}
+.catalog-info-separator {
+  color: var(--muted);
+  opacity: .58;
+}
 .table-scroll {
   width: 100%;
   overflow-x: auto;
@@ -330,8 +412,19 @@ html[data-theme="dark"] .icon-for-dark { display: block; }
 .avatar-tone-3 { background: #dcefe5; }
 .avatar-tone-4 { background: #f3e8cf; }
 html[data-theme="dark"] .avatar { color: #30293a; }
-.playlist-copy { min-width: 0; }
+.playlist-copy {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+.playlist-title-row {
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px 8px;
+}
 .playlist-title {
+  flex: 1 1 180px;
   display: inline-block;
   max-width: 100%;
   overflow: hidden;
@@ -345,6 +438,38 @@ html[data-theme="dark"] .avatar { color: #30293a; }
   vertical-align: middle;
 }
 .playlist-title:hover { color: var(--primary); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; }
+
+
+.playlist-badges {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.format-badge,
+.new-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 24px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: .035em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.format-badge {
+  background: var(--primary-soft);
+  color: var(--primary-text);
+}
+.new-badge {
+  background: var(--green-soft);
+  color: var(--green-text);
+}
 .level-badge {
   min-width: 58px;
   display: inline-flex;
@@ -564,10 +689,14 @@ html[data-theme="dark"] .accent-mixed-international {
   body { font-size: 16px; }
   .page { width: calc(100% - 20px); padding: 10px 0 30px; }
   .top-controls { gap: 8px; margin-bottom: 8px; }
+  .header-actions { gap: 6px; }
+  .language-button-text { font-size: 13px; }
   .view-tabs { gap: 6px; padding-bottom: 2px; }
   .view-tab { min-height: 44px; gap: 7px; padding: 0 12px; border-radius: 14px; font-size: 14px; }
   .view-tab svg { width: 20px; height: 20px; }
   .view-tab b { min-width: 23px; padding: 1px 6px; font-size: 11px; }
+  .special-filter-tab { padding-inline: 11px; }
+  .podcast-filter-tab { gap: 6px; }
   .round-button { width: 44px; height: 44px; border-radius: 14px; }
   .round-button svg { width: 22px; height: 22px; }
   .filter-bar {
@@ -591,8 +720,14 @@ html[data-theme="dark"] .accent-mixed-international {
   .select-control > svg { right: 10px; width: 18px; height: 18px; }
   .reset-button { flex: 0 0 46px; width: 46px; height: 46px; border-radius: 13px; }
   .catalog { border-radius: 18px; box-shadow: none; }
-  .catalog-info { min-height: 44px; padding: 0 14px; font-size: 13px; }
+  .catalog-info {
+    min-height: 44px;
+    gap: 5px;
+    padding: 7px 14px;
+    font-size: 13px;
+  }
   .catalog-info strong { font-size: 15px; }
+  .catalog-info-separator { opacity: .5; }
   .playlist-table { min-width: 860px; }
   .table-head,
   .playlist-row { grid-template-columns: 250px 84px 120px 122px 82px 150px; }
@@ -617,6 +752,22 @@ html[data-theme="dark"] .accent-mixed-international {
   }
   .avatar { width: 36px; height: 36px; font-size: 10px; }
   .playlist-title { font-size: 14px; font-weight: 600; }
+  .playlist-title-row {
+    gap: 4px 5px;
+  }
+  .playlist-title {
+    flex-basis: 130px;
+  }
+  .playlist-badges {
+    gap: 4px;
+  }
+  .format-badge,
+  .new-badge {
+    min-height: 20px;
+    padding: 2px 6px;
+    font-size: 9px;
+    letter-spacing: .025em;
+  }
   .level-badge { min-width: 48px; min-height: 28px; padding: 3px 9px; font-size: 12px; }
   .value-with-icon { gap: 5px; }
   .value-with-icon svg { width: 18px; height: 18px; }
