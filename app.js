@@ -209,6 +209,13 @@
     const state = getItemState(item.id);
     const avatarTone = parseInt(hashString(item.title).slice(0, 6), 36) % 5;
     const levelClass = `level-${item.level.toLowerCase().replaceAll("+", "plus").replace(/[^a-z0-9-]/g, "")}`;
+    const accentClass = item.accent
+  ? `accent-${item.accent
+      .toLowerCase()
+      .replace(/\s*\/\s*/g, "-")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "")}`
+  : "accent-unknown";
     const avatarImage = item.avatar
       ? `<img src="${escapeAttribute(item.avatar)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`
       : "";
@@ -222,7 +229,11 @@
           </div>
         </div>
         <div class="cell" role="cell"><span class="level-badge ${levelClass}">${escapeHTML(item.level)}</span></div>
-        <div class="cell${item.accent ? "" : " muted-value"}" role="cell">${escapeHTML(item.accent || "—")}</div>
+        <div class="cell" role="cell">
+  <span class="accent-badge ${accentClass}">
+    ${escapeHTML(item.accent || "Не указан")}
+  </span>
+</div>
         <div class="cell" role="cell"><span class="value-with-icon"><svg><use href="#icon-clock"></use></svg>${formatHours(item.durationHours)}</span></div>
         <div class="cell${item.videoCount === null ? " muted-value" : ""}" role="cell"><span class="value-with-icon"><svg><use href="#icon-video"></use></svg>${item.videoCount === null ? "—" : formatNumber(item.videoCount)}</span></div>
         <div class="cell row-actions" role="cell">
