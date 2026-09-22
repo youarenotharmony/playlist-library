@@ -2390,5 +2390,31 @@ window.PLAYLISTS = [
   "notes": "",
   "format": null,
   "addedAt": "2026-09-22"
+},
+{
+  "id": "pl-91de47a6f3",
+  "title": "Learn English with Ross",
+  "url": "https://www.youtube.com/@learnenglishwithross/videos",
+  "level": "A2",
+  "durationHours": 1,
+  "videoCount": 5,
+  "accent": "American",
+  "avatar": "",
+  "notes": "",
+  "format": null,
+  "addedAt": "2026-09-22"
+},
+{
+  "id": "pl-a73f19c2d8",
+  "title": "English with Paige",
+  "url": "https://www.youtube.com/@englishwithpaige",
+  "level": "A2",
+  "durationHours": 1,
+  "videoCount": 3,
+  "accent": "American",
+  "avatar": "",
+  "notes": "",
+  "format": null,
+  "addedAt": "2026-09-22"
 }
 ];
