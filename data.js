@@ -1,7 +1,7 @@
 window.PLAYLISTS = [
   {
     "id": "pl-1cdba83376",
-    "title": "CI for ESL Beginners",
+    "title": "English Comprehensible Input for ESL Beginners",
     "url": "https://youtube.com/playlist?list=PLqE81DRO-TpFUby7iTm_7M7NWVyze4B82&si=3MfgJvC_4hGlXCwx",
     "level": "A1",
     "durationHours": 62,
@@ -44,7 +44,7 @@ window.PLAYLISTS = [
     "url": "https://youtube.com/playlist?list=PLoQjhQuO0mXktEK_Cbemz2x19chABBTaO&si=ay6stP8ussTIT8tO",
     "level": "A1",
     "durationHours": 15,
-    "videoCount": 40,
+    "videoCount": 41,
     "accent": "American",
     "avatar": "",
     "notes": "",
@@ -53,7 +53,7 @@ window.PLAYLISTS = [
   },
   {
     "id": "pl-eb3e9B1-B2575",
-    "title": "Isaac Cloward 1",
+    "title": "Isaaquillo (English Comprehensible Input)",
     "url": "https://youtube.com/playlist?list=PLKt7dWUJknRh6xHI-K-0l5ZsQXT1dcKck&si=lW9tlgbtKIu86p3F",
     "level": "A1",
     "durationHours": 11,
@@ -70,7 +70,7 @@ window.PLAYLISTS = [
     "url": "https://youtube.com/playlist?list=PL5QKY42gcQznpXyB23HSy_JTvKNvGjKa7&si=PwxUKl51VHUThJQO",
     "level": "A1",
     "durationHours": 10,
-    "videoCount": 69,
+    "videoCount": 66,
     "accent": "American",
     "avatar": "",
     "notes": "",
@@ -79,7 +79,7 @@ window.PLAYLISTS = [
   },
   {
     "id": "pl-862fa26204",
-    "title": "Miss Honey",
+    "title": "Miss Honey (Beginner English)",
     "url": "https://youtube.com/playlist?list=PL8f0I_2tet-fDkhrcr6oXRK75kY6sxJWH&si=wpmGfL_wnVy9ATld",
     "level": "A1",
     "durationHours": 12,
@@ -183,7 +183,7 @@ window.PLAYLISTS = [
   },
   {
     "id": "pl-b6adf46408",
-    "title": "Ben's Language Lab",
+    "title": "Ben's Language Lab (English from Zero)",
     "url": "https://youtube.com/playlist?list=PL7yrVR1epvJokOdOJx9jMf-wf2Cf4G5sO&si=xxGd3ZrE6rvYxnpI",
     "level": "A1",
     "durationHours": 1,
