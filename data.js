@@ -2442,5 +2442,18 @@ window.PLAYLISTS = [
   "notes": "",
   "format": "podcast",
   "addedAt": "2026-09-22"
+},
+{
+  "id": "pl-2b97e4d613",
+  "title": "Vlasta English with Evelyn",
+  "url": "https://www.youtube.com/playlist?list=PLGAZaGrrto28",
+  "level": "B1-B2",
+  "durationHours": 1,
+  "videoCount": 3,
+  "accent": "Australian",
+  "avatar": "",
+  "notes": "",
+  "format": null,
+  "addedAt": "2026-09-22"
 }
 ];
