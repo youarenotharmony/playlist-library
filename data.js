@@ -2416,5 +2416,18 @@ window.PLAYLISTS = [
   "notes": "",
   "format": null,
   "addedAt": "2026-09-22"
+},
+{
+  "id": "pl-4c82e7b951",
+  "title": "Teacher Troy",
+  "url": "https://www.youtube.com/playlist?list=PLt3f5VBZRQjf3W_w6Kryzh77cqnXQd7NB",
+  "level": "A2",
+  "durationHours": 29,
+  "videoCount": 66,
+  "accent": "Canadian",
+  "avatar": "",
+  "notes": "",
+  "format": null,
+  "addedAt": "2026-09-22"
 }
 ];
