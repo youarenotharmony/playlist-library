@@ -2338,5 +2338,18 @@ window.PLAYLISTS = [
   "notes": "",
   "format": null,
   "addedAt": "2026-07-31"
+},
+{
+  "id": "pl-7a3c91e842",
+  "title": "English Every Day!",
+  "url": "https://www.youtube.com/@EnglishEveryDayWithPatrick/videos",
+  "level": "B1-B2",
+  "durationHours": 3,
+  "videoCount": 50,
+  "accent": "American",
+  "avatar": "",
+  "notes": "",
+  "format": null,
+  "addedAt": "2026-09-22"
 }
 ];
