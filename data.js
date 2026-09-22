@@ -2429,5 +2429,18 @@ window.PLAYLISTS = [
   "notes": "",
   "format": null,
   "addedAt": "2026-09-22"
+},
+{
+  "id": "pl-f61d3a8b24",
+  "title": "Leah's English",
+  "url": "https://www.youtube.com/@leahlaoshi/videos",
+  "level": "B1-B2",
+  "durationHours": 2,
+  "videoCount": 11,
+  "accent": "American",
+  "avatar": "",
+  "notes": "",
+  "format": "podcast",
+  "addedAt": "2026-09-22"
 }
 ];
