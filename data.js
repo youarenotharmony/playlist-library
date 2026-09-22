@@ -2533,5 +2533,137 @@ window.PLAYLISTS = [
   "notes": "",
   "format": null,
   "addedAt": "2026-09-22"
-}
+},
+  [
+  {
+    "id": "pl-7f3a91c2d8",
+    "title": "Comprehensible Input English",
+    "url": "https://www.youtube.com/@comprehensibleinputenglish1",
+    "level": "A1",
+    "durationHours": 13,
+    "videoCount": 3,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "pl-b82e4d1f6a",
+    "title": "CollinSpeaksEnglish",
+    "url": "https://www.youtube.com/@collinspeaksenglish",
+    "level": "B1-B2",
+    "durationHours": 1,
+    "videoCount": 0,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "pl-c51a8e73f4",
+    "title": "English Forever Games",
+    "url": "https://www.youtube.com/@englishforevergames",
+    "level": "B1-B2",
+    "durationHours": 3,
+    "videoCount": 1,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "pl-29d7b4e861",
+    "title": "English 1004",
+    "url": "https://www.youtube.com/@learneng1004",
+    "level": "A2",
+    "durationHours": 1,
+    "videoCount": 0,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "pl-e4c96a2b17",
+    "title": "English With Nolan",
+    "url": "https://www.youtube.com/@englishwnolan",
+    "level": "A2",
+    "durationHours": 7,
+    "videoCount": 1,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "pl-63f1d8a9c5",
+    "title": "WhatWords English",
+    "url": "https://www.youtube.com/@whatwordsenglish",
+    "level": "A2",
+    "durationHours": 30,
+    "videoCount": 3,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "pl-a7c35e92d1",
+    "title": "English with Jacob",
+    "url": "https://www.youtube.com/playlist?list=PLxsVQqjTNs-GEvs98QDCpaYWXJ-wB7NNu",
+    "level": "B1-B2",
+    "durationHours": 23,
+    "videoCount": 5,
+    "accent": "Canadian",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "pl-d91b47f6e3",
+    "title": "British English Listening Practice",
+    "url": "https://www.youtube.com/playlist?list=PLghC2xAqXPL-VXbvgIDnWzL9I6IG0aYxD",
+    "level": "B1-B2",
+    "durationHours": 14,
+    "videoCount": 4,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "pl-f28c61a4b9",
+    "title": "English Happens",
+    "url": "https://www.youtube.com/@englishhappens",
+    "level": "A2",
+    "durationHours": 2,
+    "videoCount": 0,
+    "accent": "American",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "pl-5e83a7d2c6",
+    "title": "Learn easy English with Claire",
+    "url": "https://www.youtube.com/@learneasyenglishwithclaire",
+    "level": "A2",
+    "durationHours": 8,
+    "videoCount": 1,
+    "accent": "British",
+    "avatar": "",
+    "notes": "",
+    "format": null,
+    "addedAt": "2026-09-22"
+  }
+]
 ];
