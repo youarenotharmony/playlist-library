@@ -1041,7 +1041,7 @@ window.PLAYLISTS = [
   },
   {
     "id": "pl-975ff6f6d7",
-    "title": "Learn English with Comics 1",
+    "title": "Learn English with Comics 1 (Ben's Language Lab)",
     "url": "https://youtube.com/playlist?list=PL7yrVR1epvJpdQ4c07GCrefXBviMJeDL7&si=jf7NW-PnIk5-ev6l",
     "level": "B1-B2",
     "durationHours": 5,
@@ -1054,7 +1054,7 @@ window.PLAYLISTS = [
   },
   {
     "id": "pl-f21f8fc517",
-    "title": "Learn English with Comics 2",
+    "title": "Learn English with Comics 2 (Ben's Language Lab)",
     "url": "https://youtube.com/playlist?list=PL7yrVR1epvJoNtK0qGM7yycvsgD7LQJpQ&si=mQcoQxU4iIPj4EqY",
     "level": "B1-B2",
     "durationHours": 5,
@@ -1067,7 +1067,7 @@ window.PLAYLISTS = [
   },
   {
     "id": "pl-f07ea35900",
-    "title": "Learn English with Comics 3",
+    "title": "Learn English with Comics 3 (Ben's Language Lab)",
     "url": "https://youtube.com/playlist?list=PL7yrVR1epvJq5EYial4Fo4eEEf4MeHjvN&si=HKjvmAV-lyOBRFEE",
     "level": "B1-B2",
     "durationHours": 5,
@@ -2515,6 +2515,19 @@ window.PLAYLISTS = [
   "level": "A2",
   "durationHours": 4,
   "videoCount": 11,
+  "accent": "American",
+  "avatar": "",
+  "notes": "",
+  "format": null,
+  "addedAt": "2026-09-22"
+},
+  {
+  "id": "pl-e18d53dac6",
+  "title": "Learn English with Video Games - Papers, Please (Ben's Language Lab)",
+  "url": "https://www.youtube.com/playlist?list=PL7yrVR1epvJr8OGUi3CXT633pu-mA9eSA",
+  "level": "B1-B2",
+  "durationHours": 6,
+  "videoCount": 15,
   "accent": "American",
   "avatar": "",
   "notes": "",
