@@ -1720,7 +1720,7 @@ window.PLAYLISTS = [
     "title": "Thinking English Gaming",
     "url": "https://youtube.com/@thinking-english-gaming",
     "level": "B1-B2",
-    "durationHours": 0,
+    "durationHours": 8,
     "videoCount": 24,
     "accent": "British",
     "avatar": "",
