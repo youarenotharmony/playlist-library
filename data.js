@@ -2507,5 +2507,18 @@ window.PLAYLISTS = [
   "notes": "",
   "format": null,
   "addedAt": "2026-09-22"
+},
+{
+  "id": "pl-e18d53bac6",
+  "title": "Acquirable English (Stardew Valley)",
+  "url": "https://www.youtube.com/playlist?list=PL_pzbjRF59WRfPqzH6QW5AyVzGcT6DF5H",
+  "level": "A2",
+  "durationHours": 4,
+  "videoCount": 11,
+  "accent": "American",
+  "avatar": "",
+  "notes": "",
+  "format": null,
+  "addedAt": "2026-09-22"
 }
 ];
